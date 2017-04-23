@@ -29,7 +29,7 @@
         <!--Home View Controller-->
         <scene sceneID="qXu-vL-DxX">
             <objects>
-                <viewController storyboardIdentifier="Home" id="mdu-f6-YyX" customClass="HomeViewController" customModule="cloneInstagram" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="Home" useStoryboardIdentifierAsRestorationIdentifier="YES" id="mdu-f6-YyX" customClass="HomeViewController" customModule="cloneInstagram" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="rV2-a9-mwB"/>
                         <viewControllerLayoutGuide type="bottom" id="dH7-E4-MqW"/>
@@ -47,7 +47,7 @@
         <!--Image Select View Controller-->
         <scene sceneID="0Qw-SX-bOE">
             <objects>
-                <viewController storyboardIdentifier="ImageSelect" id="yxs-o4-RDU" customClass="ImageSelectViewController" customModule="cloneInstagram" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="ImageSelect" useStoryboardIdentifierAsRestorationIdentifier="YES" id="yxs-o4-RDU" customClass="ImageSelectViewController" customModule="cloneInstagram" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="zgu-Ad-E5q"/>
                         <viewControllerLayoutGuide type="bottom" id="SE6-iU-gP9"/>
@@ -65,7 +65,7 @@
         <!--Post View Controller-->
         <scene sceneID="gGb-ZC-8W6">
             <objects>
-                <viewController storyboardIdentifier="Post" id="s9H-1Y-OmO" customClass="PostViewController" customModule="cloneInstagram" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="Post" useStoryboardIdentifierAsRestorationIdentifier="YES" id="s9H-1Y-OmO" customClass="PostViewController" customModule="cloneInstagram" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="KPy-dL-T8w"/>
                         <viewControllerLayoutGuide type="bottom" id="Ii1-f4-lAl"/>
@@ -83,7 +83,7 @@
         <!--Setting View Controller-->
         <scene sceneID="3OH-jM-tYi">
             <objects>
-                <viewController storyboardIdentifier="Setting" id="wt9-YG-t7s" customClass="SettingViewController" customModule="cloneInstagram" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="Setting" useStoryboardIdentifierAsRestorationIdentifier="YES" id="wt9-YG-t7s" customClass="SettingViewController" customModule="cloneInstagram" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="I3V-6b-g4O"/>
                         <viewControllerLayoutGuide type="bottom" id="ppK-De-Mqz"/>
@@ -101,7 +101,7 @@
         <!--Login View Controller-->
         <scene sceneID="ra5-yA-Hr7">
             <objects>
-                <viewController id="6fa-FD-Dof" customClass="LoginViewController" customModule="cloneInstagram" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="Login" useStoryboardIdentifierAsRestorationIdentifier="YES" id="6fa-FD-Dof" customClass="LoginViewController" customModule="cloneInstagram" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Skp-ji-XlE"/>
                         <viewControllerLayoutGuide type="bottom" id="M57-qU-Dhn"/>

@@ -6,7 +6,7 @@
 //  Copyright © 2017年 koji. All rights reserved.
 //
 
-import Foundation
+//import Foundation
 import UIKit
 
 class PostViewController: UIViewController {
